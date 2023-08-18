@@ -104,4 +104,3 @@ They are vulnerable to cyber attacks, especially Distributed Denial of Service a
   
   * Upon starting each traffic, the resulting entropy calculation and classifier outputs can be found in Terminal 1. 
   * The traffic can be ended by pressing **Ctrl + Z** in their respective terminal
-
